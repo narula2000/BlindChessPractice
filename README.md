@@ -4,7 +4,7 @@ This was created for me to practice my blind chess game.
 
 ## Objectives
 
-- [X] Guess Color of a position. (Done)
+- [X] Guess Color of a position.
 - [ ] Guess Moves of regular pieces.
 - [ ] Guess Moves of knights.
 - [ ] Guess Move of knights traveling by files.
